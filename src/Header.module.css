@@ -1,0 +1,3 @@
+.main {
+  @apply sticky top-0 z-10 flex bg-white justify-between items-center border-b-2 border-primary;
+}

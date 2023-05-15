@@ -1,0 +1,7 @@
+.row {
+  @apply grid grid-flow-col gap-2;
+}
+
+.col {
+  @apply grid grid-flow-row gap-2;
+}
